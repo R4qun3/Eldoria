@@ -1,9 +1,11 @@
-Certainly! Here's a detailed overview of the Raqunes:
+#Draft #Species #Raqunes 
 
-The Raqunes are a versatile and resourceful race that evolved from raccoons in the world of Eldoria. They possess a humanoid physique with a mix of raccoon and human features, blending the best traits of both species. 
+The Raqunes are a versatile and resourceful race that evolved from raccoons in the world of [[Eldoria]]. They possess a humanoid physique with a mix of raccoon and human features, blending the best traits of both species. 
 
 Physical Attributes:
 Raqunes typically have agile bodies with a wide range of fur colours and patterns, reflecting their diverse backgrounds and adaptations to different environments. Their fur can range from shades of brown, Gray, black, and even white, with intricate patterns such as stripes, spots, or rings. They have sharp claws and nimble hands, allowing them to manipulate objects and perform intricate tasks. Their eyes are often bright and intelligent, reflecting their keen intellect and curiosity.
+
+<hr>
 
 Intellect and Ingenuity:
 The Raqunes are known for their exceptional intellect and innovative thinking. They possess a natural curiosity and insatiable thirst for knowledge, driving them to explore and unravel the mysteries of the world. Their keen problem-solving abilities and quick thinking make them excellent engineers, inventors, and strategists. Raqunes have a natural affinity for technology, magic, and alchemy, allowing them to create ingenious devices, powerful spells, and potent potions.

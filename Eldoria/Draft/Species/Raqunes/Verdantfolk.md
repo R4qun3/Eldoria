@@ -2,9 +2,13 @@
 
 The Verdantfolk, also known as the Children of the Green, are a race deeply connected to the intricate web of life in the world of [[Eldoria]]. They embody the essence of nature itself, harmoniously coexisting with the flora, fauna, and elemental forces that shape the land. Their physical appearance reflects their profound bond with the natural world.
 
+<hr>
+
 Verdantfolk possess an ethereal beauty, with skin that seems to radiate with a soft, natural glow. Their features often echo the delicate elegance of flowers and leaves, with eyes that shimmer like sunlight filtering through a verdant canopy. Their hair cascades in waves and curls, mirroring the flowing rivers and windswept meadows they call home. Adornments made from natural materials, such as leaves, flowers, and crystals, are often woven into their attire, further blending them with their surroundings.
 
 They stand in harmony with the environment, their movements reminiscent of the swaying of branches and the graceful flight of birds. Their presence exudes a calming aura, reflecting their atonement to the natural rhythms of the world. Verdantfolk possess an innate understanding of the interconnectedness of all living things, sensing the subtle energies that flow through the land and its inhabitants.
+
+<hr>
 
 The Verdantfolk have a deep affinity for nature and the elements. They commune with the spirits of plants and animals, forming symbiotic relationships that foster mutual support and cooperation. They draw upon the primal forces of earth, water, air, and life, channelling their energy through nature-based magic and druidic practices. Verdantfolk can command the growth of plants, manipulating vines and roots to entangle foes or summoning the power of the elements to create devastating storms or calm waters.
 
