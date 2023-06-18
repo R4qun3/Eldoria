@@ -1,8 +1,14 @@
-The Umbralites are a mysterious and enigmatic race that exists on the fringes of Eldoria, shrouded in darkness and secrets. They are intrinsically connected to the realm of shadows, possessing a unique set of abilities that allows them to manipulate darkness, excel in stealth and subterfuge, and wield illusionary magic. 
+#Draft #Species #Raqunes #Umbralites
+
+The Umbralites are a mysterious and enigmatic race that exists on the fringes of [[Eldoria]], shrouded in darkness and secrets. They are intrinsically connected to the [[Realm of Shadows]], possessing a unique set of abilities that allows them to manipulate darkness, excel in stealth and subterfuge, and wield illusionary magic. 
+
+<hr>
 
 Physically, Umbralites have a slender and lithe build, perfectly suited to their agile and elusive nature. Their skin tones range from pale to dusky, often bearing a faint ethereal glow. Their hair and eyes exhibit various shades of darkness, with eyes that seem to shimmer like pools of ink. Umbralites adorn themselves in garments that blend seamlessly with the shadows, incorporating dark fabrics and intricate designs that evoke the mystique of their race.
 
-Umbralites are masters of stealth, capable of moving silently and undetected through the darkest corners of Eldoria. They possess an inherent ability to manipulate shadows, blending with the darkness to remain unseen and unheard. With their mastery over illusionary magic, they can create lifelike illusions, deceiving the senses of their opponents and causing them to question reality. Umbralites can conjure shadowy constructs, using them as allies or distractions in combat.
+<hr>
+
+Umbralites are masters of stealth, capable of moving silently and undetected through the darkest corners of Eldoria. They possess an inherent ability to manipulate shadows, blending with the darkness to remain unseen and unheard. With their mastery over [[Illusionary Magic]], they can create lifelike illusions, deceiving the senses of their opponents and causing them to question reality. Umbralites can conjure shadowy constructs, using them as allies or distractions in combat.
 
 Their agility is unparalleled, allowing them to perform acrobatic feats and navigate treacherous terrain with ease. Umbralites possess remarkable reflexes and dexterity, enabling them to evade attacks and launch swift, precise strikes when the opportunity arises. In addition, Umbralites have the unique ability known as Shadowstep, which allows them to traverse short distances by momentarily stepping into the shadows and emerging from another shadowy location, granting them unparalleled mobility and surprise attack capabilities.
 

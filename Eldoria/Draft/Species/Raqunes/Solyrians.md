@@ -1,4 +1,8 @@
-The Solyrians, residing in the Arcanum universe, are a race deeply connected to the elemental forces that shape the world of Eldoria. Their physical appearance reflects their affinity for the elements, with robust and sturdy builds and skin tones ranging from earthy browns to deep crimson. Their eyes often exhibit fiery hues, symbolizing their inner connection to elemental energies. Intricate markings and patterns adorn their bodies, representing the elemental forces they harness.
+#Draft #Species #Raqunes #Solyrians
+
+The Solyrians, residing in the [[Arcanum]] universe, are a race deeply connected to the elemental forces that shape the world of [[Eldoria]]. Their physical appearance reflects their affinity for the elements, with robust and sturdy builds and skin tones ranging from earthy browns to deep crimson. Their eyes often exhibit fiery hues, symbolizing their inner connection to elemental energies. Intricate markings and patterns adorn their bodies, representing the elemental forces they harness.
+
+<hr>
 
 **Physical Description:**
 The Solyrians, inhabitants of the Arcanum universe, possess a striking and awe-inspiring physical appearance that reflects their deep connection to elemental forces and their ability to manipulate and harness the power of fire, earth, and other elemental energies.
@@ -16,6 +20,8 @@ Their attire reflects their close ties to elemental forces and practicality. Sol
 As a race deeply connected to elemental energies, Solyrians may exhibit subtle manifestations of their powers. Glowing embers or faint sparks may dance along their skin or hair, symbolizing their affinity for fire. Their footsteps might leave faint trails of soldering earth or wisps of wind, showcasing their atonement to earth and air.
 
 In summary, the Solyrians possess a majestic and imposing physical appearance that reflects their elemental affinity. Their robust builds, fiery or earthy skin tones, and intricate patterns symbolize their deep connection to the forces of fire and earth. Their attire and subtle elemental manifestations further emphasize their inherent bond with nature and their ability to manipulate and control elemental energies within the world of Eldoria.
+
+<hr>
 
 The Solyrians possess a range of strengths that contribute to their prowess in battle. Their natural affinity for elemental manipulation is a primary advantage, allowing them to harness and control fire, earth, and other elemental energies with ease. They can conjure flames, launch earthen projectiles, create protective barriers, and channel raw energy for devastating attacks. This mastery over the elements grants them versatility and adaptability in combat scenarios.
 
