@@ -1,0 +1,13 @@
+#Draft #Resources 
+
+In this game, there are multiple resource systems that players can utilize to fuel their actions and abilities. These resource systems include:
+
+1. **[[Elemental Essence]]:** [[Elemental Essence]] represents the raw elemental energy harnessed from the natural surroundings of [[Eldoria (world)]]. It serves as a resource for early game battles and allows players to play lower-cost creature cards, cast basic spells, and activate certain abilities. Each player starts the game with a set amount of [[Elemental Essence]], which replenishes at the start of their turn.
+
+2. **[[Shadow Pacts]]:** Shadow Pacts represent a more advanced and potent form of magical energy. It is a late-end game resource that unlocks high-powered spells and abilities. Players can accumulate Shadow Pact over time through specific card effects, completing objectives, or defeating powerful enemies. Shadow Pact resources provide access to game-changing effects and can turn the tide of battles in favour of the player who wields them.
+
+3. **[[Energy Flow]]:** [[Energy Flow]] represents the ebb and flow of magical energy throughout the game. At the beginning of each turn, players have a limited [[energy flow]] that determines the number of cards they can play from their hand. This mechanic ensures that players have to make strategic choices and consider their card plays carefully. [[Energy Flow]] can be modified by various card effects or abilities, allowing players to temporarily increase or decrease the number of cards they can play on a given turn.
+
+4. **[[Luminesci Artifacts]]:** [[Luminesci artifacts]] are special treasures that hold immense value and significance within the game world. These artifacts can serve as additional resources or provide unique benefits when acquired. They may grant additional [[Elemental Essence]], increase the replenishment rate of resources, or offer other advantages that enhance the player's strategy. Obtaining [[Luminesci]] artifacts may require completing lore-based challenges, embarking on quests, or defeating powerful enemies.
+
+These resource systems provide players with different avenues to develop their strategies and tactics throughout the game. [[Elemental Essence]] and [[Energy Flow]] focus on early game battles and managing card plays, while Shadow Pact and [[Luminesci artifacts]] introduce more advanced and specialized resources for late-end game scenarios. By utilizing and managing these resources effectively, players can gain an edge over their opponents and achieve victory.

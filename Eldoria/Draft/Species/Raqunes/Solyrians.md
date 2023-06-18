@@ -1,11 +1,11 @@
 #Draft #Species #Raqunes #Solyrians
 
-The Solyrians, residing in the [[Arcanum]] universe, are a race deeply connected to the elemental forces that shape the world of [[Eldoria]]. Their physical appearance reflects their affinity for the elements, with robust and sturdy builds and skin tones ranging from earthy browns to deep crimson. Their eyes often exhibit fiery hues, symbolizing their inner connection to elemental energies. Intricate markings and patterns adorn their bodies, representing the elemental forces they harness.
+The Solyrians, residing in the [[Arcanum]] universe, are a race deeply connected to the elemental forces that shape the world of [[Eldoria (world)]]. Their physical appearance reflects their affinity for the elements, with robust and sturdy builds and skin tones ranging from earthy browns to deep crimson. Their eyes often exhibit fiery hues, symbolizing their inner connection to elemental energies. Intricate markings and patterns adorn their bodies, representing the elemental forces they harness.
 
 <hr>
 
 **Physical Description:**
-The Solyrians, inhabitants of the Arcanum universe, possess a striking and awe-inspiring physical appearance that reflects their deep connection to elemental forces and their ability to manipulate and harness the power of fire, earth, and other elemental energies.
+The Solyrians, inhabitants of the [[Arcanum]] universe, possess a striking and awe-inspiring physical appearance that reflects their deep connection to elemental forces and their ability to manipulate and harness the power of fire, earth, and other elemental energies.
 
 Solyrians have a robust and muscular build, exuding strength and resilience. They stand tall at an average height ranging from 6 to 7 feet, commanding a presence that reflects their affinity for the natural elements. Their bodies are sculpted with well-defined muscles, a testament to their physical prowess and endurance.
 
@@ -19,7 +19,7 @@ Their attire reflects their close ties to elemental forces and practicality. Sol
 
 As a race deeply connected to elemental energies, Solyrians may exhibit subtle manifestations of their powers. Glowing embers or faint sparks may dance along their skin or hair, symbolizing their affinity for fire. Their footsteps might leave faint trails of soldering earth or wisps of wind, showcasing their atonement to earth and air.
 
-In summary, the Solyrians possess a majestic and imposing physical appearance that reflects their elemental affinity. Their robust builds, fiery or earthy skin tones, and intricate patterns symbolize their deep connection to the forces of fire and earth. Their attire and subtle elemental manifestations further emphasize their inherent bond with nature and their ability to manipulate and control elemental energies within the world of Eldoria.
+In summary, the Solyrians possess a majestic and imposing physical appearance that reflects their elemental affinity. Their robust builds, fiery or earthy skin tones, and intricate patterns symbolize their deep connection to the forces of fire and earth. Their attire and subtle elemental manifestations further emphasize their inherent bond with nature and their ability to manipulate and control elemental energies within the world of [[Eldoria (world)]].
 
 <hr>
 
@@ -37,4 +37,4 @@ However, the Solyrians also face certain weaknesses that can be exploited by the
 
 Their connection to elemental energies can sometimes be unstable, leading to unintended consequences or loss of control. They must exercise caution to prevent backlashes or situations where their own powers turn against them. Disruption of their connection to elemental forces can also weaken their abilities temporarily, leaving them vulnerable in battle.
 
-Furthermore, Solyrians rely on specific environments or resources to fully utilize their elemental powers. They require access to elemental sources or materials to replenish their energies and reach their full potential. Without these resources, they may face challenges in maintaining their peak performance.
+Furthermore, Solyrians rely on specific environments or [[resources]] to fully utilize their elemental powers. They require access to elemental sources or materials to replenish their energies and reach their full potential. Without these [[resources]], they may face challenges in maintaining their peak performance.

@@ -1,5 +1,5 @@
-**Player 1: Solyrians (Objective: Locate and wield the ancient Solar Staff)**
-Player 2: Verdantfolk (Objective: Protect the sacred Grove of Eternity)
+**Player 1: [[Solyrians]] (Objective: Locate and wield the ancient Solar Staff)**
+Player 2: [[Verdantfolk]] (Objective: Protect the sacred Grove of Eternity)
 
 Turn 1:
 **Player 1:**
@@ -10,7 +10,7 @@ Turn 1:
 Player 2:
 - Player 2 draws a hand of 5 cards from their deck.
 - They play a Verdant Guardian creature card (1/3) onto the game board.
-- Player 2 also plays a Grove Protector artifact, which provides +1 health to all Verdantfolk creatures.
+- Player 2 also plays a Grove Protector artifact, which provides +1 health to all [[Verdantfolk]] creatures.
 
 <hr>
 
@@ -35,7 +35,7 @@ Turn 3:
 
 Player 2:
 - Player 2 draws a card and adds it to their hand.
-- They play an Enchanted Spring location card, gaining 2 additional resources per turn.
+- They play an Enchanted Spring location card, gaining 2 additional [[resources]] per turn.
 - Player 2 casts a Nature's Embrace spell, giving their Verdant Guardian +2 health until the end of the turn.
 
 <hr>
@@ -75,7 +75,7 @@ Turn 6:
 Player 2:
 - Player 2 draws a card and adds it to their hand.
 - They play a Grove Protector creature card (4/7) onto the game board.
-- Player 2 casts a Nature's Harmony spell, healing all their Verdantfolk creatures by 3 health.
+- Player 2 casts a Nature's Harmony spell, healing all their [[Verdantfolk]] creatures by 3 health.
 
 <hr>
 
@@ -87,7 +87,7 @@ Turn 7:
 
 Player 2:
 - Player 2 draws a card and adds it to their hand.
-- They play a Sacred Grove location card, gaining additional resources and allowing them to draw extra cards each turn.
+- They play a Sacred Grove location card, gaining additional [[resources]] and allowing them to draw extra cards each turn.
 - Player 2 casts a Nature's Wrath spell, dealing 3 damage to the Solyrian Sunblade.
 
 <hr>
@@ -100,7 +100,7 @@ Turn 8:
 
 Player 2:
 - Player 2 draws a card and adds it to their hand.
-- They play a Verdant Enclave location card, granting additional resources and allowing them to draw extra cards each turn.
+- They play a Verdant Enclave location card, granting additional [[resources]] and allowing them to draw extra cards each turn.
 - Player 2 casts an Ancient Barrier spell, creating a defensive shield around their Grove of Eternity location.
 
 <hr>
@@ -127,7 +127,7 @@ Turn 10:
 Player 2:
 - Player 2 draws a card and adds it to their hand.
 - They play a Verdant Archdruid creature card (8/12) onto the game board.
-- Player 2 casts an Ancient Blessing spell, increasing the health of all their Verdantfolk creatures by 4.
+- Player 2 casts an Ancient Blessing spell, increasing the health of all their [[Verdantfolk]] creatures by 4.
 
 <hr>
 
@@ -153,7 +153,7 @@ Turn 12:
 Player 2:
 - Player 2 draws a card and adds it to their hand.
 - They play a Verdant Harbinger creature card (12/16) onto the game board.
-- Player 2 casts an Ancient Harmony spell, increasing the power and health of all their Verdantfolk creatures by 3.
+- Player 2 casts an Ancient Harmony spell, increasing the power and health of all their [[Verdantfolk]] creatures by 3.
 
 <hr>
 
@@ -166,7 +166,7 @@ Turn 13:
 Player 2:
 - Player 2 draws a card and adds it to their hand.
 - They play a Verdant Sentinel creature card (14/18) onto the game board.
-- Player 2 casts a Nature's Blessing spell, providing additional health to all their Verdantfolk creatures.
+- Player 2 casts a Nature's Blessing spell, providing additional health to all their [[Verdantfolk]] creatures.
 
 <hr>
 
@@ -179,7 +179,7 @@ Turn 14:
 Player 2:
 - Player 2 draws a card and adds it to their hand.
 - They play a Verdant Ancient creature card (16/20) onto the game board.
-- Player 2 casts an Ancient Unity spell, merging the power and health of all their Verdantfolk creatures.
+- Player 2 casts an Ancient Unity spell, merging the power and health of all their [[Verdantfolk]] creatures.
 
 <hr>
 
@@ -192,10 +192,10 @@ Turn 15:
 Player 2:
 - Player 2 draws a card and adds it to their hand.
 - They play a Verdant Elder creature card (18/22) onto the game board.
-- Player 2 casts an Ancient Resurgence spell, reviving a defeated Verdantfolk creature.
+- Player 2 casts an Ancient Resurgence spell, reviving a defeated [[Verdantfolk]] creature.
 
 <hr>
 
-The game ends with **Player 1**, the Solyrians, achieving their objective of locating and wielding the ancient Solar Staff while Player 2, the Verdantfolk, failing to protect the sacred Grove of Eternity. Player 1 wins the game!
+The game ends with **Player 1**, the [[Solyrians]], achieving their objective of locating and wielding the ancient Solar Staff while Player 2, the [[Verdantfolk]], failing to protect the sacred Grove of Eternity. Player 1 wins the game!
 
 Note: The length of time for a game can vary depending on the players' strategies, card interactions, and the pace at which they make decisions. On average, a game of "Eldoria Chronicles: The Quest for Ascendancy" may take anywhere from 30 minutes to an hour to complete.

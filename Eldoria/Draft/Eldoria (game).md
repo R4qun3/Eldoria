@@ -1,0 +1,15 @@
+[[Eldoria (game)]] is an immersive and strategic trading card game set in the enchanting world of [[Eldoria (world)]]. Players step into the roles of powerful beings known as [[Raqunes]], who are the chosen stewards of the world, entrusted with maintaining balance and order.
+
+The game offers a rich and expansive universe where players can explore diverse landscapes, encounter mystical creatures, and delve into ancient lore. Each Raqune clan represents a different aspect of the cosmic forces that shaped [[Eldoria (world)]], and players can choose their clan to align with specific playstyles and strategies.
+
+In [[Eldoria (game)]], players construct their decks by assembling a collection of unique and powerful cards that represent [[creatures]], [[spells]], [[artifacts]], and [[Resources]]. These cards capture the essence of the [[Raqunes]]' abilities, the magical forces of [[Eldoria (world)]], and the ancient [[artifacts]] they seek.
+
+Gameplay revolves around engaging in epic battles with other players or challenging AI opponents. Players strategically deploy their cards, using the creatures and spells to attack their opponents, defend their territories, and disrupt their opponents' strategies. Each card has its own attributes, abilities, and resource costs, allowing for a diverse range of tactical options.
+
+Victory in [[Eldoria (game)]] can be achieved through multiple paths. Players can pursue objective-based win conditions, where they strive to complete specific tasks or achieve predetermined goals. These objectives may involve exploring hidden areas, uncovering ancient artifacts, or fulfilling quests tied to the rich lore of [[Eldoria (world)]].
+
+Additionally, players can strive for a lasting dominance win condition. By strategically controlling territories, building powerful alliances, and accumulating [[resources]], players can exert their influence and establish their supremacy over the game board. This win condition requires careful planning, resource management, and diplomatic maneuvering.
+
+Throughout the game, players will encounter lore-based challenges inspired by the deep mythology of [[Eldoria (world)]]. These challenges may take the form of formidable opponents, treacherous environments, or enigmatic puzzles that require wit, strategy, and a deep understanding of the game's mechanics. Overcoming these challenges not only rewards players with valuable [[resources]] and experience but also unravels the rich tapestry of Eldoria's (world) history and secrets.
+
+The game offers a captivating and dynamic experience, where players can continually expand their card collections, refine their strategies, and engage in competitive or cooperative gameplay. [[Eldoria (game)]] provides a balance of strategy, exploration, and storytelling, immersing players in a world of magic, myth, and the enduring legacy of the [[Raqunes]] and the cosmic forces that shaped them.

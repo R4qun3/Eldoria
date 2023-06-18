@@ -4,7 +4,7 @@ The Stonewalkers, towering beings of immense strength and resilience, stand as f
 
 <hr>
 
-Stonewalkers possess a majestic stature, towering over other races in Eldoria. Their bodies are hulking and muscular, with broad shoulders, strong arms, and a sturdy frame that exudes raw power. Their skin or fur is rough and coarse, resembling the texture of weathered rock, and may vary in colour, mirroring the earthy tones of their natural habitat. Cracks and crevices can be seen across their skin, resembling the fissures that adorn the surface of ancient boulders.
+Stonewalkers possess a majestic stature, towering over other races in [[Eldoria (world)]]. Their bodies are hulking and muscular, with broad shoulders, strong arms, and a sturdy frame that exudes raw power. Their skin or fur is rough and coarse, resembling the texture of weathered rock, and may vary in colour, mirroring the earthy tones of their natural habitat. Cracks and crevices can be seen across their skin, resembling the fissures that adorn the surface of ancient boulders.
 
 Their facial features emanate strength and determination. Stonewalkers possess rugged and angular facial structures, often adorned with sharp tusks or prominent horns that signify their connection to the mountains. Their eyes are deep-set and intense, reflecting the wisdom and resilience acquired through generations of living amidst the harsh mountain environments. A crown of tough, resilient hair or fur crowns their heads, reminiscent of the jagged peaks that dominate their landscape.
 
@@ -16,4 +16,4 @@ Their settlements harmonize with the environment, blending seamlessly into the r
 
 In gameplay, the Stonewalkers' immense strength and durability shine through. They excel in close-quarters combat, utilizing their powerful limbs and natural weaponry to deliver devastating blows to their adversaries. Their abilities revolve around manipulating earth and stone, allowing them to create impregnable barriers, unleash seismic shocks, and shape the battlefield to their advantage. Stonewalkers are known for their defensive prowess, standing as immovable bulwarks that shield their allies and frustrate their enemies.
 
-In summary, the Stonewalkers embody the might and resilience of the mountains themselves. Their imposing stature, rugged features, and affinity for earth and stone make them a force to be reckoned with in the world of [[Eldoria]].
+In summary, the Stonewalkers embody the might and resilience of the mountains themselves. Their imposing stature, rugged features, and affinity for earth and stone make them a force to be reckoned with in the world of [[Eldoria (game)]].

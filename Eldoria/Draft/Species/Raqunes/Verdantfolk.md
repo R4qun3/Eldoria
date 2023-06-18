@@ -1,6 +1,6 @@
 #Draft #Species #Raqunes #Vertantfolk
 
-The Verdantfolk, also known as the Children of the Green, are a race deeply connected to the intricate web of life in the world of [[Eldoria]]. They embody the essence of nature itself, harmoniously coexisting with the flora, fauna, and elemental forces that shape the land. Their physical appearance reflects their profound bond with the natural world.
+The Verdantfolk, also known as the Children of the Green, are a race deeply connected to the intricate web of life in the world of [[Eldoria (world)]]. They embody the essence of nature itself, harmoniously coexisting with the flora, fauna, and elemental forces that shape the land. Their physical appearance reflects their profound bond with the natural world.
 
 <hr>
 
